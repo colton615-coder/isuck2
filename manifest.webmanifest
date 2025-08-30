@@ -1,0 +1,9 @@
+{
+  "name": "Fin — Expense Tracker",
+  "short_name": "Fin",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "icons": []
+}
